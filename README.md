@@ -19,8 +19,7 @@
 
  <img align="center" alt="lucas-sql" height="30" width="40" background-color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
                
-            <link align="center" alt="lucas-sql" height="30" width="40"  rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+            
           
 
   
