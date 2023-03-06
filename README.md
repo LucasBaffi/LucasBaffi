@@ -17,7 +17,8 @@
   <img align="center" alt="lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
- <img align="center" alt="lucas-sql" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+          
           
 
   
